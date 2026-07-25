@@ -24,11 +24,9 @@
 - 🏋️ Academia (Em desenvolvimento).
 - 💈 Barbearia (Em desenvolvimento).
 
-## 📊 Estatísticas
+## 🔥 Sequência de contribuições
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G4brielVictor&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G4brielVictor&layout=compact&theme=github_dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=G4brielVictor&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
 ## Contato
 
