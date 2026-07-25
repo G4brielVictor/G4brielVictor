@@ -19,16 +19,18 @@
 
 ## 🚀 Projetos
 
-- 📦 [Controle de Estoque em C](LINK)
-- 🏦 [Sistema Bancário em C](LINK)
-- 🏋️ [Academia Forja](LINK)
+- 📦 [Controle de Estoque em C]([LINK](https://github.com/G4brielVictor/Projeto-de-Controle-de-Estoque))
+- 🏦 [Sistema Bancário em C]([LINK](https://github.com/G4brielVictor/Banco-em-C))
+- 🏋️ [Academia Forja]
 - 💈 Barbearia (Em desenvolvimento).
 
 ## 📊 Estatísticas
 
-![Gabriel GitHub Stats](https://github-readme-stats.vercel.app/api?username=G4brielVictor&show_icons=true&theme=github_dark)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=G4brielVictor&show_icons=true&theme=github_dark&hide_border=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G4brielVictor&layout=compact&theme=github_dark)
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G4brielVictor&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ## Contato
 
