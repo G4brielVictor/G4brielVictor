@@ -26,11 +26,9 @@
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=G4brielVictor&show_icons=true&theme=github_dark&hide_border=true"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G4brielVictor&show_icons=true&theme=github_dark&hide_border=true)
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G4brielVictor&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G4brielVictor&layout=compact&theme=github_dark&hide_border=true)
 
 ## Contato
 
