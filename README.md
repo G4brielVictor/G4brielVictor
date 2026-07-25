@@ -19,9 +19,9 @@
 
 ## 🚀 Projetos
 
-- 📦 [Controle de Estoque em C]([LINK](https://github.com/G4brielVictor/Projeto-de-Controle-de-Estoque))
-- 🏦 [Sistema Bancário em C]([LINK](https://github.com/G4brielVictor/Banco-em-C))
-- 🏋️ [Academia Forja]
+- 📦 [Controle de Estoque em C]([https://github.com/G4brielVictor/Projeto-de-Controle-de-Estoque])
+- 🏦 [Sistema Bancário em C]([https://github.com/G4brielVictor/Banco-em-C])
+- 🏋️ Academia (Em desenvolvimento).
 - 💈 Barbearia (Em desenvolvimento).
 
 ## 📊 Estatísticas
