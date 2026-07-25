@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá! Eu sou Gabriel 👋
 
-<!--
-**G4brielVictor/G4brielVictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação (IFCE)
 
-Here are some ideas to get you started:
+💻 Desenvolvedor Web em formação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Atualmente estudando:
+
+- HTML
+- CSS
+- JavaScript
+- C
+- Java
+
+## Tecnologias
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,c,git,github,vscode"/>
+</p>
+
+## Projetos
+
+- 📦 Controle de Estoque em C
+- 🏦 Sistema Bancário em C
+- 🏋 Academia Forja
+- 💈 Barbearia (Em breve)
+
+## Contato
+
+LinkedIn: www.linkedin.com/in/gabriel-victor-developer
+
+GitHub: https://github.com/G4brielVictor
