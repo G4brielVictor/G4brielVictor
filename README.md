@@ -15,7 +15,7 @@
 ## Tecnologias
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,c,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,c,git,github,vscode,java"/>
 </p>
 
 ## Projetos
