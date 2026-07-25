@@ -4,29 +4,36 @@
 
 💻 Desenvolvedor Web em formação
 
-🚀 Atualmente estudando:
+## 📚 Atualmente estudando
 
-- HTML
-- CSS
-- JavaScript
-- C
-- Java
+- 🌐 Desenvolvimento Web
+- 📦 Estrutura de Dados em C
+- ⚡ JavaScript Moderno
+- 🚀 React (em breve)
 
-## Tecnologias
+## 🛠 Tecnologias
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,c,git,github,vscode,java"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,java,git,github,vscode" />
 </p>
 
-## Projetos
+## 🚀 Projetos
 
-- 📦 Controle de Estoque em C
-- 🏦 Sistema Bancário em C
-- 🏋 Academia Forja
-- 💈 Barbearia (Em breve)
+- 📦 [Controle de Estoque em C](LINK)
+- 🏦 [Sistema Bancário em C](LINK)
+- 🏋️ [Academia Forja](LINK)
+- 💈 Barbearia (Em desenvolvimento).
+
+## 📊 Estatísticas
+
+![Gabriel GitHub Stats](https://github-readme-stats.vercel.app/api?username=G4brielVictor&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G4brielVictor&layout=compact&theme=github_dark)
 
 ## Contato
 
-LinkedIn: www.linkedin.com/in/gabriel-victor-developer
+💼 LinkedIn:
+www.linkedin.com/in/gabriel-victor-developer
 
-GitHub: https://github.com/G4brielVictor
+📧 Email:
+g4brielvictorp@gmail.com
