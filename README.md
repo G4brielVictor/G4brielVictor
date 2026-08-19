@@ -21,12 +21,7 @@
 
 - 📦 [Controle de Estoque em C](https://github.com/G4brielVictor/Projeto-de-Controle-de-Estoque)
 - 🏦 [Sistema Bancário em C](https://github.com/G4brielVictor/Banco-em-C)
-- 🏋️ Academia (Em desenvolvimento).
-- 💈 Barbearia (Em desenvolvimento).
-
-## 🔥 Sequência de contribuições
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=G4brielVictor&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+- 🏋️ Assistente Virtual Inteligente por Voz(Em Andamento).
 
 ## Contato
 
