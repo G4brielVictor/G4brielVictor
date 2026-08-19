@@ -8,13 +8,13 @@
 
 - 🌐 Desenvolvimento Web
 - 📦 Estrutura de Dados em C
-- ⚡ JavaScript Moderno
+- ⚡ Java Moderno
 - 🚀 React (em breve)
 
 ## 🛠 Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,java,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,java,git,github,vscode" />
 </p>
 
 ## 🚀 Projetos
